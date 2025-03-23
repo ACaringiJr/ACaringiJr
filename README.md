@@ -1,5 +1,5 @@
 # Hi there, I'm Armand.
-This is my GitHub profile. You're here because you went down some weird rabbit hole and found my page. Or, you're here because we know each other. But nonetheless you're here. So, thanks for stopping by.
+This is my GitHub profile.
 
 ### Contact Me
 You can get a hold of me at my email acaringijr@gmail.com.
